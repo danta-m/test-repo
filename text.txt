@@ -8,7 +8,7 @@
       " Fantasy",
       " Musical"
     ],
-    "imdb_score": 8.0,
+    "imdb_score": 8.9,
     "name": "The Wizard of Oz"
   },
   {
