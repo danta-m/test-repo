@@ -20,7 +20,7 @@
       " Fantasy",
       " Sci-Fi"
     ],
-    "imdb_score": 8.8,
+    "imdb_score": 9.0,
     "name": "Star Wars"
   }
 ]
